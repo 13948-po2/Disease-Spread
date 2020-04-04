@@ -1,4 +1,4 @@
-# spread
+# Spread
 
 ## Introduction
 Spread is a small python script that creates a simple model for disease spreading among a population. The idea is to be able to watch the effects of the variation for several key parameters. It takes into account :
